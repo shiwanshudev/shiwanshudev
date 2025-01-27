@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio!](https://shiwanshudev.vercel.app/)
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my projects are available at [https://shiwanshudev.vercel.app/](https://shiwanshudev.vercel.app/)
 
